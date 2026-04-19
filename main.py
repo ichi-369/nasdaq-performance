@@ -121,6 +121,10 @@ if result_df.empty:
     result_df = pd.DataFrame(columns=[
         "Ticker","Name","1Y (%)","YTD (%)","6M (%)","1M (%)","1D (%)"
     ])
+    
+# ▼ （四捨五入＋整数化）
+cols = ["1D (%)","1M (%)","6M (%)","YTD (%)","1Y (%)"]
+result_df[cols] = result_df[cols].round(0).astype("Int64")    
 
 result_df.to_csv("data/data.csv", index=False)
 

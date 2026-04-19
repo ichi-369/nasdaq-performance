@@ -96,11 +96,11 @@ for i in range(0, len(tickers), batch_size):
                 results.append({
                     "Ticker": ticker,
                     "Name": name,
-                    "1Y (%)": calc_return(ticker_df, one_year_ago, today),
-                    "YTD (%)": calc_return(ticker_df, start_of_year, today),
-                    "6M (%)": calc_return(ticker_df, six_months_ago, today),
-                    "1M (%)": calc_return(ticker_df, one_month_ago, today),
                     "1D (%)": calc_1d_return(ticker_df),
+                    "1M (%)": calc_return(ticker_df, one_month_ago, today),
+                    "6M (%)": calc_return(ticker_df, six_months_ago, today),
+                    "YTD (%)": calc_return(ticker_df, start_of_year, today),
+                    "1Y (%)": calc_return(ticker_df, one_year_ago, today),
                 })
 
             except:

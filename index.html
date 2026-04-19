@@ -1,30 +1,117 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title>NASDAQ Momentum</title>
+
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+  <!-- PapaParse -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    table.dataTable td {
+      text-align: right;
+    }
+
+    table.dataTable td:nth-child(1),
+    table.dataTable td:nth-child(2) {
+      text-align: left;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>NASDAQ Momentum Ranking</h1>
 
-  <table border="1" id="table"></table>
+<h1>NASDAQ Momentum Ranking</h1>
 
-  <script>
-    fetch('data/data.csv')
-      .then(res => res.text())
-      .then(text => {
-        const rows = text.split('\n').map(r => r.split(','));
-        let html = '';
+<table id="table" class="display" style="width:100%"></table>
 
-        rows.forEach((row, i) => {
-          html += '<tr>';
-          row.forEach(cell => {
-            html += i === 0 ? `<th>${cell}</th>` : `<td>${cell}</td>`;
-          });
-          html += '</tr>';
-        });
+<script>
+fetch('data/data.csv')
+  .then(res => res.text())
+  .then(text => {
 
-        document.getElementById('table').innerHTML = html;
-      });
-  </script>
+    const parsed = Papa.parse(text, {
+      header: true,
+      skipEmptyLines: true
+    });
+
+    let data = parsed.data;
+
+    // カラム順固定
+    data = data.map(row => [
+      row["Ticker"],
+      row["Name"],
+      row["1D (%)"],
+      row["1M (%)"],
+      row["6M (%)"],
+      row["YTD (%)"],
+      row["1Y (%)"]
+    ]);
+
+    $('#table').DataTable({
+      data: data,
+
+      columns: [
+        { title: "Ticker" },
+        { title: "Name" },
+        { title: "1D (%)" },
+        { title: "1M (%)" },
+        { title: "6M (%)" },
+        { title: "YTD (%)" },
+        { title: "1Y (%)" }
+      ],
+
+      // 初期ソート（1D降順）
+      order: [[2, "desc"]],
+
+      pageLength: 25,
+
+      createdRow: function(row, data) {
+
+        let d1 = parseFloat(data[2]);
+        let m1 = parseFloat(data[3]);
+        let m6 = parseFloat(data[4]);
+
+        // 1D
+        if (d1 > 5) {
+          $('td', row).eq(2).css('color', 'green');
+        } else if (d1 < 0) {
+          $('td', row).eq(2).css('color', 'red');
+        }
+
+        // 1M
+        if (m1 > 10) {
+          $('td', row).eq(3).css('color', 'green');
+        } else if (m1 < 0) {
+          $('td', row).eq(3).css('color', 'red');
+        }
+
+        // 6M
+        if (m6 > 20) {
+          $('td', row).eq(4).css('color', 'green');
+        } else if (m6 < 0) {
+          $('td', row).eq(4).css('color', 'red');
+        }
+      }
+
+    });
+
+  });
+</script>
+
 </body>
 </html>

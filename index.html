@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NASDAQ Momentum</title>
+</head>
+<body>
+  <h1>NASDAQ Momentum Ranking</h1>
 
+  <table border="1" id="table"></table>
+
+  <script>
+    fetch('data/data.csv')
+      .then(res => res.text())
+      .then(text => {
+        const rows = text.split('\n').map(r => r.split(','));
+        let html = '';
+
+        rows.forEach((row, i) => {
+          html += '<tr>';
+          row.forEach(cell => {
+            html += i === 0 ? `<th>${cell}</th>` : `<td>${cell}</td>`;
+          });
+          html += '</tr>';
+        });
+
+        document.getElementById('table').innerHTML = html;
+      });
+  </script>
+</body>
+</html>

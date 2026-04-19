@@ -23,7 +23,7 @@ df = df[
 ]
 
 tickers = df["Symbol"].tolist()
-tickers = tickers[:100]
+# tickers = tickers[:100]
 
 # =========================
 # 期間

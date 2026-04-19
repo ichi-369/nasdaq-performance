@@ -113,6 +113,15 @@ for i in range(0, len(tickers), batch_size):
         continue
 
 result_df = pd.DataFrame(results)
+# result_df.to_csv("data/data.csv", index=False)
+
+
+if result_df.empty:
+    print("WARNING: empty data")
+    result_df = pd.DataFrame(columns=[
+        "Ticker","Name","1Y (%)","YTD (%)","6M (%)","1M (%)","1D (%)"
+    ])
+
 result_df.to_csv("data/data.csv", index=False)
 
 # =========================
@@ -161,9 +170,9 @@ def show_top_with_sector(df, col):
 # =========================
 # 実行
 # =========================
-show_top_with_sector(result_df, "1Y (%)")
-show_top_with_sector(result_df, "YTD (%)")
-show_top_with_sector(result_df, "6M (%)")
-show_top_with_sector(result_df, "1M (%)")
-show_top_with_sector(result_df, "1D (%)")
+# show_top_with_sector(result_df, "1Y (%)")
+# show_top_with_sector(result_df, "YTD (%)")
+# show_top_with_sector(result_df, "6M (%)")
+# show_top_with_sector(result_df, "1M (%)")
+# show_top_with_sector(result_df, "1D (%)")
 

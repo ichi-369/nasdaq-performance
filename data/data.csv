@@ -121,7 +121,7 @@ AKTX,Akari Therapeutics Plc - American Depositary Shares,4,10,-81,-48,-90
 ALAB,"Astera Labs, Inc. - Common Stock",2,74,16,10,199
 ALBT,Avalon GloboCare Corp. - Common Stock,-3,-27,-82,-68,-89
 ALCO,"Alico, Inc. - Common Stock",-1,4,17,14,47
-ALCY,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,1,1,-2,-17,5
+ALCY,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,0,1,-2,-17,5
 ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,0,1,1,1,5
 ALDX,"Aldeyra Therapeutics, Inc. - Common Stock",-6,-13,-69,-66,-40
 ALEC,"Alector, Inc. - Common Stock",-1,15,62,59,113
@@ -159,11 +159,11 @@ AMCI,AMC Robotics Corporation - Common Stock,-4,14,-24,-5,-42
 AMCX,AMC Global Media Inc. - Class A Common Stock,0,31,15,-5,34
 AMD,"Advanced Micro Devices, Inc. - Common Stock",1,50,18,37,216
 AMGN,Amgen Inc. - Common Stock,1,-1,21,7,28
-AMIX,"Autonomix Medical, Inc. - Common Stock",-1,-14,-67,-32,-82
+AMIX,"Autonomix Medical, Inc. - Common Stock",-1,-14,-67,-31,-82
 AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",-1,29,22,52,223
 AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",-8,-6,-68,-23,-73
 AMPG,"Amplitech Group, Inc. - Common Stock",-5,-29,-44,-42,2
-AMPGZ,"Amplitech Group, Inc. - Series B Right",,0,0,0,0
+AMPGZ,"Amplitech Group, Inc. - Series B Right",,,,,
 AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",0,8,-13,-21,-13
 AMPL,"Amplitude, Inc. - Class A Common Stock",-8,0,-33,-39,-27
 AMSC,American Superconductor Corporation - Common Stock,-4,43,-20,46,127
@@ -219,7 +219,7 @@ ASO,"Academy Sports and Outdoors, Inc. - Common Stock",-3,6,15,9,50
 ASPC,A SPAC III Acquisition Corp. - Class A Ordinary Shares,-5,1,7,-49,9
 ASPI,ASP Isotopes Inc. - Common Stock,-3,18,-46,-4,2
 ASPS,Altisource Portfolio Solutions S.A. - Common Stock,-5,-4,-40,-11,-10
-ASPSZ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants,-19,-19,-40,-40,-40
+ASPSZ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants,0,0,-25,-25,-25
 ASST,"Strive, Inc. - Class A Common Stock",-3,56,-51,-6,35
 ASTC,Astrotech Corporation - Common Stock,-5,50,-23,-11,-45
 ASTE,"Astec Industries, Inc. - Common Stock",2,12,24,33,69
@@ -274,8 +274,8 @@ BAND,Bandwidth Inc. - Class A Common Stock,-2,33,35,61,81
 BANF,BancFirst Corporation - Common Stock,1,6,3,8,-1
 BANFP,BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities,1,2,5,2,8
 BANL,CBL International Limited - Class B Ordinary Shares,1,-44,-13,6,-53
-BANX,ArrowMark Financial Corp. - Closed End Fund,-2,2,-4,-10,9
-BAOS,Baosheng Media Group Holdings Limited - Ordinary shares,0,4,-16,-2,46
+BANX,ArrowMark Financial Corp. - Closed End Fund,-1,3,-4,-9,10
+BAOS,Baosheng Media Group Holdings Limited - Ordinary shares,1,4,-16,-2,46
 BAYA,Bayview Acquisition Corp - Ordinary Share,0,0,6,0,9
 BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",2,12,21,12,24
 BBCQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,1,3,4,4,4
@@ -295,7 +295,7 @@ BCIC,BCP Investment Corporation - Closed End Fund,-2,5,-27,-31,-25
 BCML,BayCom Corp - Common Stock,1,-1,8,2,16
 BCPC,Balchem Corporation - Common Stock,1,6,15,15,16
 BCTX,BriaCell Therapeutics Corp. - Common Shares,-5,-4,-72,-48,-93
-BCTXL,BriaCell Therapeutics Corp. - Warrants,,0,0,0,0
+BCTXL,BriaCell Therapeutics Corp. - Warrants,,,,,
 BCTXZ,BriaCell Therapeutics Corp. - Warrant,0,0,-21,-21,-21
 BCYC,Bicycle Therapeutics plc - American Depositary Shares,-3,8,-40,-27,-42
 BDCI,BTC Development Corp. - Class A Ordinary Shares,0,0,-1,0,-1
@@ -317,7 +317,7 @@ BGIN,Bgin Blockchain Limited - Class A Ordinary Shares,4,72,-14,36,-26
 BGL,Blue Gold Limited - Class A ordinary shares,0,-3,-85,-53,-95
 BGLC,BioNexus Gene Lab Corp - Common stock,-1,-10,-56,-43,-23
 BGM,BGM Group Ltd. - Class A Ordinary Shares,-6,-37,-96,-91,-97
-BGMS,"Bio Green Med Solution, Inc. - Common Stock",-19,-5,-51,-32,-97
+BGMS,"Bio Green Med Solution, Inc. - Common Stock",-19,-5,-51,-33,-97
 BHAV,BHAV Acquisition Corp - Class A Ordinary Shares,0,0,0,0,0
 BHF,"Brighthouse Financial, Inc. - Common Stock",0,3,33,-4,14
 BHFAL,"Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058",-1,2,-3,1,-9
@@ -337,12 +337,12 @@ BIYA,Baiya International Group Inc.  - Ordinary Shares,-10,-28,-86,-76,-99
 BJDX,"Bluejay Diagnostics, Inc. - Common Stock",-2,-1,-79,-25,-71
 BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,0,0,1,3,10
 BKNG,Booking Holdings Inc. - Common Stock,-1,5,-16,-17,-8
-BKYI,"BIO-key International, Inc. - Common Stock",-6,3,-42,1,-25
+BKYI,"BIO-key International, Inc. - Common Stock",-6,2,-42,0,-25
 BL,"BlackLine, Inc. - Common Stock",-7,-22,-46,-45,-38
 BLBD,Blue Bird Corporation - Common Stock,2,12,20,36,78
 BLDP,"Ballard Power Systems, Inc. - Common Shares",-3,38,-1,26,177
 BLFS,"BioLife Solutions, Inc. - Common Stock",-5,11,-23,-9,-13
-BLIN,"Bridgeline Digital, Inc. - Common Stock",-1,10,-28,11,-44
+BLIN,"Bridgeline Digital, Inc. - Common Stock",-1,9,-28,11,-44
 BLIV,BeLive Holdings - ordinary shares,0,11,-30,-24,-43
 BLKB,"Blackbaud, Inc. - Common Stock",-8,-8,-44,-39,-43
 BLLN,"BillionToOne, Inc. - Class A common stock",-3,17,-23,-6,-23
@@ -393,12 +393,12 @@ BTCS,BTCS Inc. - Common Stock,-5,27,-55,-36,-2
 BTCT,BTC Digital Ltd. - Ordinary Shares,-3,14,-51,-21,-69
 BTM,Bitcoin Depot Inc. - Class A Common Stock,-3,199,-62,-20,-33
 BTMD,Biote Corp. - Class A common stock,-1,64,-23,-10,-35
-BTOC,Armlogi Holding Corp. - common stock,1,5,-58,-49,-76
+BTOC,Armlogi Holding Corp. - common stock,1,5,-58,-50,-77
 BTOG,Bit Origin Limited - Class A Ordinary Shares,-6,-16,-92,-82,-78
 BTQ,BTQ Technologies Corp. - Common Stock,-10,33,-64,-40,-40
 BTSG,"BrightSpring Health Services, Inc. - Common Stock",0,10,40,23,179
 BTTC,Black Titan Corp - Ordinary Shares,-4,3,-68,-27,-94
-BVC,BitVentures Limited - Ordinary Share,-1,22,784,658,1031
+BVC,BitVentures Limited - Ordinary Share,0,22,784,658,1031
 BVFL,"BV Financial, Inc. - Common Stock",0,7,23,10,31
 BVS,Bioventus Inc. - Class A Common Stock,-1,5,45,35,27
 BYAH,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",1,2,-94,-87,-100
@@ -420,16 +420,16 @@ CALC,"CalciMedica, Inc. - Common Stock",-4,-1,-81,-91,-61
 CALM,"Cal-Maine Foods, Inc. - Common Stock",-1,-3,-14,-2,-13
 CAMP,CAMP4 Therapeutics Corporation - Common Stock,-3,-3,14,-26,117
 CAMT,Camtek Ltd. - Ordinary Shares,5,23,62,70,194
-CAN,Canaan Inc. - American Depositary Shares,-8,19,-71,-35,-40
+CAN,Canaan Inc. - American Depositary Shares,-8,19,-71,-35,-39
 CAPN,Cayson Acquisition Corp - Ordinary Shares,0,1,3,3,7
-CAPS,Capstone Holding Corp. - Common Stock,-1,-37,-60,-41,-79
+CAPS,Capstone Holding Corp. - Common Stock,0,-36,-60,-41,-79
 CAQ,Cambridge Acquisition Corp. - Class A Ordinary Shares,0,-1,-1,-1,-1
 CASH,"Pathward Financial, Inc. - Common Stock",-11,-1,25,22,11
 CASS,"Cass Information Systems, Inc - Common Stock",-3,7,20,17,19
 CAST,"FreeCast, Inc. - Class A common stock",-29,-63,-82,-82,-82
 CASY,"Caseys General Stores, Inc. - Common Stock",1,11,48,42,77
 CATY,Cathay General Bancorp - Common Stock,3,11,20,14,35
-CBAT,"CBAK Energy Technology, Inc. - Common Stock",-1,2,-14,-5,15
+CBAT,"CBAK Energy Technology, Inc. - Common Stock",0,2,-14,-5,15
 CBC,"Central Bancompany, Inc. - Class A Common Stock",0,7,9,8,9
 CBFV,"CB Financial Services, Inc. - Common Stock",0,5,6,2,25
 CBIO,"Crescent Biopharma, Inc. - Common Stock",-5,90,98,132,-1
@@ -446,7 +446,7 @@ CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,0,15,18,18,26
 CCEC,Capital Clean Energy Carriers Corp. - Common Share,-3,7,-2,4,21
 CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,1,5,8,10,14
 CCG,Cheche Group Inc. - Class A Ordinary Shares,0,-5,-32,-12,-22
-CCHH,CCH Holdings Ltd - Ordinary Shares,-7,-18,-88,-12,-89
+CCHH,CCH Holdings Ltd - Ordinary Shares,-7,-18,-88,-12,-88
 CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,0,0,-1,0,1
 CCIX,Churchill Capital Corp IX - Ordinary Shares,0,1,0,1,-1
 CCLD,"CareCloud, Inc. - Common Stock",-6,-21,-3,3,80
@@ -558,7 +558,7 @@ CMTL,Comtech Telecommunications Corp. - Common Stock,-4,16,23,-30,172
 CMTV,Community Bancorp.  - Common stock,3,25,73,63,144
 CNCK,Coincheck Group N.V. - Ordinary Shares,-6,6,-56,-31,-77
 CNDT,Conduent Incorporated - Common Stock,1,31,-34,-12,-22
-CNET,ZW Data Action Technologies Inc. - Common Stock,-7,5,-62,-43,-55
+CNET,ZW Data Action Technologies Inc. - Common Stock,-8,4,-62,-44,-55
 CNEY,CN Energy Group Inc. - Class A Ordinary Shares,-14,83,-63,9,-79
 CNOB,"ConnectOne Bancorp, Inc. - Common Stock",3,9,21,11,33
 CNOBP,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",0,1,6,3,19
@@ -598,7 +598,7 @@ CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",-1,17,-53,-21,-40
 CPSH,CPS Technologies Corp. - Common Stock,-3,34,33,59,234
 CPSS,"Consumer Portfolio Services, Inc. - Common Stock",-3,8,8,-8,-1
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,-1,3,-5,-3,1
-CSAI,"Cloudastructure, Inc. - Class A Common Stock",-3,-12,-64,-36,-88
+CSAI,"Cloudastructure, Inc. - Class A Common Stock",-3,-13,-64,-36,-88
 CSCO,"Cisco Systems, Inc. - Common Stock",-1,8,25,17,60
 CSGP,"CoStar Group, Inc. - Common Stock",-4,-9,-52,-43,-55
 CSGS,"CSG Systems International, Inc. - Common Stock",0,0,20,5,38
@@ -660,14 +660,14 @@ DFNS,T3 Defense Inc. - Common Stock,-14,-40,-94,-88,-97
 DFSC,"DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",-4,-1,-51,11,-59
 DFTX,"Definium Therapeutics, Inc.  - Common Shares",1,23,81,71,273
 DGICA,"Donegal Group, Inc. - Class A Common Stock",2,3,-6,-8,-4
-DGICB,"Donegal Group, Inc. - Class B Common Stock",4,8,26,9,12
+DGICB,"Donegal Group, Inc. - Class B Common Stock",0,8,26,9,12
 DGII,Digi International Inc. - Common Stock,0,16,47,30,103
 DGNX,Diginex Limited - Ordinary Shares,-6,0,-97,-89,-96
 DGXX,Digi Power X Inc. - Common Subordinate Voting Shares,-3,60,-40,23,199
 DH,Definitive Healthcare Corp. - Class A Common Stock,-11,-8,-66,-58,-63
 DHC,Diversified Healthcare Trust  - Common Shares of Beneficial Interest,2,3,72,43,215
 DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042,0,11,12,12,39
-DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,,0,0,0,0
+DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,,,,,
 DIBS,"1stdibs.com, Inc. - Common Stock",-5,4,65,-4,126
 DIOD,Diodes Incorporated - Common Stock,3,41,77,95,161
 DJCO,Daily Journal Corp. (S.C.) - Common Stock,0,9,41,6,39
@@ -708,7 +708,7 @@ DXCM,"DexCom, Inc. - Common Stock",-1,-5,-11,-6,-13
 DXLG,"Destination XL Group, Inc. - Common Stock",-5,47,-31,-20,-27
 DXPE,"DXP Enterprises, Inc. - Common Stock",3,23,37,56,97
 DXST,Decent Holding Inc. - Class A Ordinary Shares,-1,-35,-93,-93,-90
-DYAI,"Dyadic International, Inc. - Common Stock",4,24,-27,-8,-27
+DYAI,"Dyadic International, Inc. - Common Stock",5,24,-26,-7,-26
 DYN,"Dyne Therapeutics, Inc. - Common Stock",-4,2,-22,2,71
 EA,Electronic Arts Inc. - Common Stock,0,0,1,-1,39
 EBAY,eBay Inc. - Common Stock,-2,16,6,19,55
@@ -748,7 +748,7 @@ ELDN,"Eledon Pharmaceuticals, Inc. - Common Stock",-10,21,-6,122,11
 ELE,Elemental Royalty Corporation - Common Stock,-4,7,21,13,67
 ELMT,The Elmet Group Co. - Common Stock,,0,0,0,0
 ELOG,Eastern International Ltd. - Ordinary Shares,-5,-8,-63,-16,-67
-ELSE,"Electro-Sensors, Inc. - Common Stock",0,72,62,82,79
+ELSE,"Electro-Sensors, Inc. - Common Stock",0,72,62,82,80
 ELTK,Eltek Ltd. - Ordinary Shares,-1,4,-24,1,5
 ELTX,"Elicio Therapeutics, Inc. - Common Stock",-1,10,22,47,131
 ELVA,Electrovaya Inc. - Common Shares,0,38,62,28,276
@@ -781,7 +781,7 @@ EQIX,"Equinix, Inc. - Common Stock",1,16,34,47,36
 EQPT,EquipmentShare.com Inc - Class A Common Stock,14,20,-25,-25,-25
 ESCA,"Escalade, Incorporated - Common Stock",0,4,58,35,29
 ESEA,Euroseas Ltd. - Common Stock,0,10,28,28,131
-ESHA,ESH Acquisition Corp. - Class A Common Stock,-2,3,10,-18,12
+ESHA,ESH Acquisition Corp. - Class A Common Stock,0,3,10,-18,12
 ESLA,"Estrella Immunopharma, Inc. - Common Stock",-5,64,-25,23,71
 ESLT,Elbit Systems Ltd. - Ordinary Shares,-1,-4,75,44,126
 ESOA,Energy Services of America Corporation - Common Stock,1,14,43,95,82
@@ -792,7 +792,7 @@ ETON,"Eton Pharmaceuticals, Inc. - Common Stock",-3,-2,24,41,45
 ETS,Elite Express Holding Inc. - Class A Common Stock,4,-12,-19,17,-83
 EVAX,Evaxion A/S - American Depositary Share,0,18,-31,-10,158
 EVCM,EverCommerce Inc. - Common Stock,-5,-3,-6,-2,9
-EVGN,Evogene Ltd. - Ordinary Shares,-3,-4,-38,-30,-29
+EVGN,Evogene Ltd. - Ordinary Shares,-2,-4,-38,-30,-29
 EVGO,EVgo Inc. - Common Stock,0,25,-48,-29,-20
 EVLV,"Evolv Technologies Holdings, Inc. - Class A Common Stock",-5,9,-20,-3,66
 EVO,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share,-2,31,-22,2,-23
@@ -830,7 +830,7 @@ FCBC,"First Community Bankshares, Inc. - Common Stock",1,4,37,35,22
 FCCO,First Community Corporation - Common Stock,-3,4,10,4,29
 FCEL,"FuelCell Energy, Inc. - Common Stock",3,77,54,49,219
 FCFS,"FirstCash Holdings, Inc. - Common Stock",3,11,42,36,63
-FCHL,Fitness Champs Holdings Limited - Ordinary Shares,-29,-95,-97,-95,-100
+FCHL,Fitness Champs Holdings Limited - Ordinary Shares,-29,-95,-97,-96,-100
 FCNCA,"First Citizens BancShares, Inc. - Class A Common Stock",-3,4,11,-8,12
 FCNCN,"First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",0,2,1,1,1
 FCNCO,"First Citizens BancShares, Inc. - 5.625% Non-Cumulative Perpetual Preferred Stock, Series C",0,1,-2,2,5
@@ -931,7 +931,7 @@ GANX,"Gain Therapeutics, Inc. - Common Stock",-7,0,-3,-41,0
 GASS,"StealthGas, Inc. - common stock",0,-2,41,30,68
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund",-1,4,-3,-1,1
 GBFH,GBank Financial Holdings Inc. - Common Stock,0,16,-22,-8,-24
-GBLI,"Global Indemnity Group, LLC - Class A Common Shares",-1,3,-1,-2,1
+GBLI,"Global Indemnity Group, LLC - Class A Common Shares",0,3,-1,-2,1
 GCBC,"Greene County Bancorp, Inc. - Common Stock",1,2,2,6,6
 GCL,GCL Global Holdings Ltd - Ordinary Shares,-1,-5,-71,-50,-76
 GCMG,GCM Grosvenor Inc. - Class A Common Stock,0,12,-6,-3,-9
@@ -1029,7 +1029,7 @@ GVH,Globavend Holdings Limited - Ord Shares,-4,203,-47,126,-97
 GXAI,Gaxos.ai Inc. - Common Stock,4,1,-23,14,14
 HACQ,HCM IV Acquisition Corp. - Class A Ordinary Share,0,0,0,0,0
 HAFC,Hanmi Financial Corporation - Common Stock,1,13,12,12,37
-HAIN,"The Hain Celestial Group, Inc. - Common Stock",-5,34,-39,-18,-71
+HAIN,"The Hain Celestial Group, Inc. - Common Stock",-4,34,-39,-18,-71
 HALO,"Halozyme Therapeutics, Inc. - Common Stock",-3,5,1,-5,10
 HAO,Haoxi Health Technology Limited - Class A Ord Share,-4,-15,-8,6,-22
 HAS,"Hasbro, Inc. - Common Stock",7,6,26,17,64
@@ -1064,7 +1064,7 @@ HFFG,HF Foods Group Inc. - Common Stock,-3,11,-12,-10,-48
 HGBL,Heritage Global Inc. - Common Stock,-2,1,-7,11,-34
 HHS,"Harte Hanks, Inc. - Common Stock",-3,15,-19,-11,-42
 HIFS,Hingham Institution for Savings - Common Stock,-2,4,-6,5,15
-HIHO,Highway Holdings Limited - Common Stock,-2,6,-48,-40,-49
+HIHO,Highway Holdings Limited - Common Stock,-2,5,-48,-40,-49
 HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",-5,31,14,28,61
 HIND,"Vyome Holdings, Inc. - Common Stock",0,3,-59,-36,-94
 HIT,"Health In Tech, Inc. - Class A Common Stock",-8,-6,-45,-14,127
@@ -1075,7 +1075,7 @@ HKPD,"Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",-10,-6,-54,-23,
 HLIT,Harmonic Inc. - Common Stock,-2,11,0,4,13
 HLMN,Hillman Solutions Corp. - Common Stock,0,7,-7,3,16
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,-3,6,-13,-24,-29
-HLP,Hongli Group Inc. - Ordinary Shares,-5,-6,-38,-11,-14
+HLP,Hongli Group Inc. - Ordinary Shares,-5,-6,-38,-11,-13
 HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,0,0,0,0,0
 HMH,HMH Holding Inc. - Common Stock,-3,5,5,5,5
 HNNA,"Hennessy Advisors, Inc. - Common Stock",0,4,7,5,-5
@@ -1149,10 +1149,10 @@ ILAG,Intelligent Living Application Group Inc. - Ordinary Shares,-8,70,-37,-4,-7
 ILMN,"Illumina, Inc. - Common Stock",-4,1,25,-7,62
 ILPT,Industrial Logistics Properties Trust - Common Shares of Beneficial Interest,-2,23,24,32,181
 IMA,"ImageneBio, Inc. - Common Stock",-2,9,-30,-13,-59
-IMCC,IM Cannabis Corp. - Common Shares,-13,-41,-79,-80,-79
+IMCC,IM Cannabis Corp. - Common Shares,-13,-40,-79,-80,-79
 IMDX,Insight Molecular Diagnostics Inc. - Common Stock,-6,-14,-46,-51,2
 IMKTA,"Ingles Markets, Incorporated - Class A Common Stock",0,4,27,31,50
-IMMP,Immutep Limited - American Depositary Shares,-3,59,-72,-81,-65
+IMMP,Immutep Limited - American Depositary Shares,-3,58,-72,-81,-65
 IMMX,"Immix Biopharma, Inc. - Common Stock",0,17,200,87,444
 IMNM,"Immunome, Inc. - Common Stock",-3,13,38,10,174
 IMNN,"Imunon, Inc. - Common Stock",-5,6,-39,-28,-75
@@ -1176,7 +1176,7 @@ INDP,"Indaptus Therapeutics, Inc. - Common Stock",-8,77,-11,15,-76
 INDV,"Indivior Pharmaceuticals, Inc.  - Common Stock",-1,11,34,-7,187
 INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,-4,8,-26,16,-38
 INGN,"Inogen, Inc - Common Stock",-2,8,-19,5,-4
-INHD,Inno Holdings Inc. - Common Stock,-6,-85,-99,-88,-100
+INHD,Inno Holdings Inc. - Common Stock,-7,-85,-99,-88,-100
 INKT,"MiNK Therapeutics, Inc. - Common Stock",-5,11,-26,-4,39
 INLF,INLIF LIMITED - Class A Ordinary shares,0,-28,-71,-55,-83
 INM,InMed Pharmaceuticals Inc. - Common Shares,-2,12,-63,-32,-75
@@ -1193,7 +1193,7 @@ INTC,Intel Corporation - Common Stock,2,51,69,70,233
 INTG,The Intergroup Corporation - Common Stock,2,0,-8,34,162
 INTJ,Intelligent Group Limited - Class A Ordinary Shares,7,30,1,-14,-33
 INTS,"Intensity Therapeutics, Inc. - Common Stock",2,-13,-13,-48,-62
-INTZ,Intrusion Inc. - Common Stock,-7,-3,-58,-34,-36
+INTZ,Intrusion Inc. - Common Stock,-7,-4,-58,-34,-37
 INV,"Innventure, Inc. - Common Stock",17,72,141,54,54
 INVA,"Innoviva, Inc. - Common Stock",0,4,33,18,29
 INVE,"Identiv, Inc. - Common Stock",-2,2,0,7,21
@@ -1209,7 +1209,7 @@ IPHA,Innate Pharma S.A. - American Depositary Shares,-4,10,-42,-25,-31
 IPM,Intelligent Protection Management Corp.  - Common Stock,-2,14,-15,2,-9
 IPOD,Dune Acquisition Corporation II - Class A ordinary shares,0,0,2,1,3
 IPSC,"Century Therapeutics, Inc. - Common Stock",-8,10,277,127,350
-IPST,"IP Strategy Holdings, Inc. - Common Stock",-3,-2,-98,-84,-98
+IPST,"IP Strategy Holdings, Inc. - Common Stock",-5,-2,-98,-84,-98
 IPX,IperionX Limited - American Depositary Share,-6,35,-36,-26,40
 IQ,"iQIYI, Inc. - American Depositary Shares",-4,-3,-47,-41,-37
 IQST,iQSTEL Inc. - Common Stock,19,17,-68,-38,-82
@@ -1220,14 +1220,14 @@ ITHA,ITHAX Acquisition Corp III - Class A Ordinary Shares,0,0,0,0,0
 ITIC,Investors Title Company - Common Stock,3,12,-5,-1,11
 ITOC,iTonic Holdings Ltd - Class A Ordinary Shares,-2,-24,-52,-31,-90
 IVA,Inventiva S.A. - American Depository Shares,-1,-14,-24,9,34
-IVDA,"Iveda Solutions, Inc. - Common Stock",-5,6,-80,-68,-90
+IVDA,"Iveda Solutions, Inc. - Common Stock",-3,8,-79,-68,-90
 IVF,"INVO Fertility, Inc. - Common Stock",-4,-25,-90,-52,-99
 IVVD,"Invivyd, Inc. - Common Stock",-6,0,-30,-40,132
 IXHL,Incannex Healthcare Inc. - Common Stock,-7,11,-64,-68,-78
 IZEA,"IZEA Worldwide, Inc. - Common Stock",-4,22,-19,-7,119
 IZM,ICZOOM Group Inc. - Class A Ordinary Shares,-3,-16,-81,-85,-80
 JACK,Jack In The Box Inc. - Common Stock,-9,19,-27,-32,-48
-JAGX,"Jaguar Health, Inc. - Common Stock",-4,1,-81,-60,-96
+JAGX,"Jaguar Health, Inc. - Common Stock",-4,1,-81,-61,-96
 JAKK,"JAKKS Pacific, Inc. - Common Stock",-1,13,23,33,19
 JANX,"Janux Therapeutics, Inc. - Common Stock",-1,11,-44,11,-51
 JATT,JATT II Acquisition Corp - Ordinary Shares,-1,-1,-1,-1,-1
@@ -1307,8 +1307,8 @@ KYIV,Kyivstar Group Ltd. - Common Shares,-3,13,-13,-13,-4
 KYNB,"Kyntra Bio, Inc. - Common Stock",-2,7,-37,-23,-11
 KYTX,"Kyverna Therapeutics, Inc. - Common Stock",-13,11,15,2,326
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,3,63,62,136,225
-LAB,Standard BioTools Inc. - Common Stock,-5,-7,-32,-30,-23
-LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,-14,-14,-14,-14,-14
+LAB,Standard BioTools Inc. - Common Stock,-5,-7,-33,-30,-23
+LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,,0,0,0,0
 LAES,SEALSQ Corp - Ordinary Shares,-8,5,-59,-34,7
 LAFA,LaFayette Acquisition Corp. - Ordinary Share,0,0,1,1,1
 LAKE,"Lakeland Industries, Inc. - Common Stock",-5,30,-39,15,-39
@@ -1356,7 +1356,7 @@ LIF,"Life360, Inc. - Common Stock",-9,10,-55,-32,9
 LIFE,Ethos Technologies Inc. - Class A Common Stock,1,62,-3,-3,-3
 LILA,Liberty Latin America Ltd. - Class A Common Stock,1,2,3,17,52
 LILAK,Liberty Latin America Ltd. - Class C Common Stock,1,4,4,19,56
-LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",-9,2,-84,-69,-98
+LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",-9,3,-84,-69,-98
 LIN,Linde plc - Ordinary Shares,3,3,15,19,15
 LINC,Lincoln Educational Services Corporation - Common Stock,-3,-3,74,70,128
 LIND,Lindblad Expeditions Holdings Inc.  - Common Stock,0,1,46,27,107
@@ -1383,7 +1383,7 @@ LNT,Alliant Energy Corporation - Common Stock,2,3,7,12,23
 LNTH,"Lantheus Holdings, Inc. - Common Stock",0,8,42,23,-19
 LNZA,"LanzaTech Global, Inc. - Common Stock",1,24,-7,79,25
 LOAN,"Manhattan Bridge Capital, Inc - Common Stock",-2,5,-8,-2,-6
-LOBO,LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares,5,45,-42,-1,-4
+LOBO,LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares,5,45,-42,-1,-5
 LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",-1,-2,42,34,44
 LOGI,Logitech International S.A. - Registered Shares,-3,3,-17,-5,24
 LOKV,Live Oak Acquisition Corp. V - Class A Ordinary Shares,0,1,1,1,5
@@ -1405,7 +1405,7 @@ LSAK,"Lesaka Technologies, Inc. - Common Stock",-1,-1,11,6,7
 LSBK,"Lake Shore Bancorp, Inc. - Common Stock",-1,4,19,9,41
 LSCC,Lattice Semiconductor Corporation - Common Stock,2,24,65,50,141
 LSE,"Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",-1,10,-8,16,-4
-LSH,Lakeside Holding Limited - Common Stock,-20,-18,-49,-29,-39
+LSH,Lakeside Holding Limited - Common Stock,-19,-18,-49,-29,-39
 LSTA,"Lisata Therapeutics, Inc. - Common Stock",-3,-34,19,70,32
 LVO,"LiveOne, Inc. - Common Stock",0,3,-7,11,-18
 LX,LexinFintech Holdings Ltd. - American Depositary Shares,-2,8,-55,-29,-71
@@ -1436,7 +1436,7 @@ MAZE,"Maze Therapeutics, Inc. - Common Stock",-2,-18,-16,-35,217
 MB,MasterBeef Group - Ordinary Shares,-2,3,-35,-21,97
 MBAI,Check-Cap Ltd. - Ordinary Share,-8,-10,-8,-14,86
 MBAV,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,0,1,3,2,6
-MBBC,"Marathon Bancorp, Inc. - Common Stock",4,1,33,17,39
+MBBC,"Marathon Bancorp, Inc. - Common Stock",0,1,33,17,39
 MBIN,Merchants Bancorp - Common Stock,1,15,54,50,55
 MBINL,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",0,3,6,7,11
 MBINM,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Reset Series D Non-Cumulative Perpetual Preferred Stock",0,2,8,2,10
@@ -1467,7 +1467,7 @@ MDXG,"MiMedx Group, Inc - Common Stock",1,-15,-50,-48,-52
 MDXH,MDxHealth SA - Ordinary Shares,-5,-20,-55,-37,23
 MEDP,"Medpace Holdings, Inc. - Common Stock",-23,-16,-34,-31,32
 MEGL,Magic Empire Global Limited - Class A Ordinary Shares,7,20,-10,4,-6
-MEHA,"Functional Brands, Inc. - Common Stock",-20,-38,-96,-49,-96
+MEHA,"Functional Brands, Inc. - Common Stock",-19,-38,-96,-49,-96
 MELI,"MercadoLibre, Inc. - Common Stock",-3,11,-21,-8,-19
 MENS,Jyong Biotech Ltd. - Ordinary shares,0,12,-95,-33,-78
 MEOH,Methanex Corporation - Common Stock,0,2,73,49,98
@@ -1481,7 +1481,7 @@ METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",0,0,-1,-1,7
 MEVO,M Evo Global Acquisition Corp II - Class A Ordinary Shares,0,0,0,0,0
 MFI,mF International Limited - Class A Ordinary Shares,-2,12,-61,-40,124
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,-1,3,-3,2,6
-MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,0,0,0,0
+MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,,,,
 MFIN,Medallion Financial Corp. - Common Stock,-2,12,-2,-6,11
 MGEE,MGE Energy Inc. - Common Stock,2,6,-5,3,-8
 MGIH,Millennium Group International Holdings Limited - Ordinary Shares,-2,5,-21,13,4
@@ -1609,7 +1609,7 @@ NFLX,"Netflix, Inc. - Common Stock",0,-1,-15,2,-16
 NGEN,NervGen Pharma Corp. - Common stock,-2,7,43,-33,83
 NGNE,Neurogene Inc. - Common Stock,-1,26,-16,34,75
 NHIC,NewHold Investment Corp III - Class A Ordinary shares,0,0,0,0,5
-NHP,"National Healthcare Properties, Inc. - Class A Common Stock",,0,0,0,0
+NHP,"National Healthcare Properties, Inc. - Class A Common Stock",4,4,4,4,4
 NHPAP,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",0,13,23,16,66
 NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",-3,10,19,15,69
 NHTC,Natural Health Trends Corp. - Commn Stock,0,4,-28,-2,-31
@@ -1633,7 +1633,7 @@ NNOX,NANO-X IMAGING LTD - Ordinary Shares,-14,-24,-57,-39,-67
 NODK,"NI Holdings, Inc. - Common Stock",0,1,-3,-2,3
 NOEM,CO2 Energy Transition Corp. - Common Stock,0,0,2,1,5
 NOMA,NOMADAR Corp. - Class A Common Stock,-3,21,-63,-3,-63
-NOTV,"Inotiv, Inc. - Common Stock",-1,10,-79,-45,-84
+NOTV,"Inotiv, Inc. - Common Stock",0,11,-78,-44,-84
 NOVT,Novanta Inc. - Common Shares,0,12,1,20,11
 NPAC,New Providence Acquisition Corp. III - Ordinary Shares,0,1,0,0,-1
 NPCE,"Neuropace, Inc. - Common Stock",-1,23,59,11,51
@@ -1702,7 +1702,7 @@ OFSSH,OFS Capital Corporation - 4.95% Notes due 2028,0,0,2,1,12
 OFSSO,OFS Capital Corporation - 7.50% Notes due 2028,1,-2,4,3,8
 OGI,Organigram Global Inc. - Common Shares,-10,10,-16,-17,24
 OIM,OneIM Acquisition Corp. - Class A Ordinary Shares,0,0,0,0,0
-OIO,OIO Group - Ordinary Shares,-9,-24,-40,-41,28
+OIO,OIO Group - Ordinary Shares,-8,-24,-40,-41,28
 OKTA,"Okta, Inc. - Class A Common Stock",-3,-4,-16,-9,-26
 OKYO,OKYO Pharma Limited - Ordinary Shares,-2,1,-40,-29,5
 OLB,"The OLB Group, Inc. - Common Stock",-4,-3,-63,-26,-73
@@ -1724,7 +1724,7 @@ ONBPO,"Old National Bancorp - Depositary Shares, Each Representing a 1/40th Inte
 ONBPP,"Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series A Preferred Stock",0,1,3,2,7
 ONC,BeOne Medicines Ltd. - American Depositary Shares,-4,8,-5,-4,22
 ONCH,1RT Acquisition Corp. - Class A Ordinary Share,0,0,-2,0,0
-ONCO,"Onconetix, Inc.  - Common Stock",-8,-79,-96,-92,-98
+ONCO,"Onconetix, Inc.  - Common Stock",-9,-79,-96,-92,-98
 ONCY,Oncolytics Biotech Inc. - Common Stock,-5,21,-10,11,95
 ONDS,Ondas Inc - Common Stock,-5,12,40,-4,1374
 ONEG,OneConstruction Group Limited - Ordinary Shares,20,144,-53,260,158
@@ -1823,7 +1823,7 @@ PFBC,Preferred Bank - Common Stock,1,7,3,1,23
 PFG,Principal Financial Group Inc - Common Stock,0,9,24,9,37
 PFIS,Peoples Financial Services Corp.  - Common Stock,1,9,23,20,40
 PFSA,"Profusa, Inc. - Common Stock",-6,12,-97,-92,-100
-PFX,PhenixFIN Corporation  - Common Stock,-1,0,-8,-12,-20
+PFX,PhenixFIN Corporation  - Common Stock,0,0,-8,-12,-20
 PFXNZ,PhenixFIN Corporation  - 5.25% Notes due 2028,0,2,3,3,9
 PGAC,Pantages Capital Acquisition Corporation - Class A Ordinary Shares,0,0,2,1,5
 PGC,Peapack-Gladstone Financial Corporation - Common Stock,2,15,49,44,47
@@ -1915,11 +1915,9 @@ QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,-4,-16,-76,-54,-
 QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund,0,13,9,6,37
 QS,QuantumScape Corporation - Common Stock,1,14,-54,-33,88
 QSEA,Quartzsea Acquisition Corporation - Ordinary Shares,0,0,2,2,4
-QSI,Quantum-Si Incorporated - Class A Common Stock,-11,16,-60,-19,-24
+QSI,Quantum-Si Incorporated - Class A Common Stock,-11,16,-60,-19,-23
 QTI,"QT Imaging Holdings, Inc. - Common Stock",-6,3,5,10,-40
 QTTB,Q32 Bio Inc. - Common Stock,-3,-9,131,88,247
-QVCGA,"QVC Group, Inc. - Series A Common Stock",-24,-83,-97,-97,-95
-QVCGP,"QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",-3,-29,-54,-35,-90
 SAAQ,Space Asset Acquisition Corp. - Class A Ordinary Shares,0,3,3,3,3
 SABS,"SAB Biotherapeutics, Inc. - Common Stock",-5,-1,25,1,117
 SAFT,"Safety Insurance Group, Inc. - Common Stock",2,4,13,2,4
@@ -1948,7 +1946,7 @@ SBLX,"StableX Technologies, Inc. - Common Stock",-7,22,-47,-6,-70
 SCAG,Scage Future - American Depositary Shares,-6,-20,-62,-50,-93
 SCHL,Scholastic Corporation - Common Stock,7,8,47,41,145
 SCII,SC II Acquisition Corp. - Class A ordinary share,0,0,1,1,1
-SCKT,"Socket Mobile, Inc. - Common Stock",1,3,-2,-12,-23
+SCKT,"Socket Mobile, Inc. - Common Stock",1,3,-2,-11,-23
 SCLX,Scilex Holding Company - Common Stock,-4,5,-63,-47,49
 SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,-16,-24,-69,-38,-82
 SCNX,"Scienture Holdings, Inc. - Common Stock",1,-8,-62,-20,-58
@@ -1986,9 +1984,9 @@ SFST,"Southern First Bancshares, Inc. - Common Stock",0,5,34,10,69
 SGA,"Saga Communications, Inc. - Class A Common Stock",1,-4,-2,3,9
 SGC,"Superior Group of Companies, Inc. - Common Stock",0,13,17,19,18
 SGHT,"Sight Sciences, Inc. - Common Stock",1,8,-16,-42,34
-SGLY,Singularity Future Technology Ltd. - Common Stock,-2,20,-33,-24,-34
+SGLY,Singularity Future Technology Ltd. - Common Stock,-2,21,-33,-24,-34
 SGML,Sigma Lithium Corporation - common shares,-6,108,259,42,145
-SGMO,"Sangamo Therapeutics, Inc. - Common Stock",-2,-25,-60,-42,-68
+SGMO,"Sangamo Therapeutics, Inc. - Common Stock",0,-24,-59,-41,-67
 SGMT,Sagimet Biosciences Inc. - Series A Common Stock,-7,15,-32,-2,86
 SGP,"SpyGlass Pharma, Inc. - Common Stock",-4,-6,-10,-10,-10
 SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",5,81,35,35,35
@@ -2011,7 +2009,7 @@ SIGI,"Selective Insurance Group, Inc. - Common Stock",9,13,11,2,-2
 SIGIP,"Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B",0,1,-5,-1,1
 SILC,Silicom Ltd - Ordinary Shares,-4,38,69,107,117
 SILO,"Silo Pharma, Inc. - Common Stock",-17,25,-17,41,-59
-SIMA,SIM Acquisition Corp. I - Class A Ordinary Shares,1,0,2,2,5
+SIMA,SIM Acquisition Corp. I - Class A Ordinary Shares,0,0,2,2,5
 SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",0,28,39,52,223
 SINT,"SiNtx Technologies, Inc. - Common Stock",-6,4,-31,-34,-3
 SION,"Sionna Therapeutics, Inc. - Common Stock",-11,1,0,-2,216
@@ -2048,12 +2046,12 @@ SMCI,"Super Micro Computer, Inc. - Common Stock",-8,20,-48,-14,-27
 SMID,Smith-Midland Corporation - Common Stock,-2,0,-16,-12,14
 SMMT,Summit Therapeutics Inc.  - Common Stock,-9,29,14,27,-5
 SMPL,The Simply Good Foods Company - Common Stock,0,-14,-39,-37,-65
-SMSI,"Smith Micro Software, Inc. - Common Stock",2,-5,5,36,-36
+SMSI,"Smith Micro Software, Inc. - Common Stock",3,-5,6,36,-36
 SMTC,Semtech Corporation - Common Stock,2,42,49,40,251
 SMTI,Sanara MedTech Inc. - Common Stock,-4,6,-37,-17,-40
 SMTK,"SmartKem, Inc. - Common Stock",-3,1,-88,-79,-89
 SMX,SMX (Security Matters) Public Limited Company - Ordinary Shares,-4,-56,-88,-97,-100
-SMXT,Solarmax Technology Inc. - Common Stock,-3,-15,-40,-32,-46
+SMXT,Solarmax Technology Inc. - Common Stock,-3,-15,-39,-32,-46
 SNAL,"Snail, Inc. - Class A Common Stock",-11,24,-43,-21,-38
 SNCY,"Sun Country Airlines Holdings, Inc. - Common Stock",-2,-4,42,13,73
 SND,"Smart Sand, Inc. - Common Stock",1,4,145,33,179
@@ -2107,7 +2105,7 @@ STAA,STAAR Surgical Company - Common Stock,0,33,-11,5,38
 STAK,STAK Inc. - Class A Ordinary Shares,-6,-18,12,110,-70
 STBA,"S&T Bancorp, Inc. - Common Stock",0,6,20,12,25
 STEP,StepStone Group Inc. - Class A Common Stock,-2,17,-14,-17,12
-STEX,Streamex Corp. - Common Stock,-12,-21,-82,-71,-2
+STEX,Streamex Corp. - Common Stock,-12,-21,-82,-71,-3
 STFS,Star Fashion Culture Holdings Limited - Class A Ordinary Shares,0,0,-36,1,-91
 STHO,Star Holdings - Shares of Beneficial Interest,1,9,7,3,27
 STI,"Solidion Technology, Inc. - Common Stock",-7,-38,-72,-53,-32
@@ -2141,7 +2139,7 @@ TACO,Berto Acquisition Corp. - Ordinary Shares,0,1,-3,1,0
 TACT,TransAct Technologies Incorporated - Common Stock,1,5,-28,-12,-5
 TALK,"Talkspace, Inc. - Common Stock",0,0,89,47,66
 TANH,Tantech Holdings Ltd. - Class A Common Shares,-2,-54,-78,-65,-85
-TAOP,Taoping Inc. - Ordinary Shares,0,-17,-51,-11,-84
+TAOP,Taoping Inc. - Ordinary Shares,0,-17,-51,-12,-84
 TAOX,Tao Synergies Inc. - Common Stock,-1,-8,-42,16,121
 TASK,"TaskUs, Inc. - Class A Common Stock",-8,-2,-31,-14,-29
 TATT,TAT Technologies Ltd. - Ordinary Shares,4,-13,-10,-19,52
@@ -2175,7 +2173,7 @@ TEM,"Tempus AI, Inc. - Class A Common Stock",-7,13,-44,-18,-3
 TENB,"Tenable Holdings, Inc. - Common Stock",-5,7,-35,-14,-41
 TENX,"Tenax Therapeutics, Inc. - Common Stock",0,-7,86,26,141
 TFSL,TFS Financial Corporation - Common Stock,0,8,11,11,24
-TGHL,The GrowHub Limited - Class A Ordinary Shares,-2,11,-55,2,-89
+TGHL,The GrowHub Limited - Class A Ordinary Shares,-2,12,-55,2,-89
 TGL,Treasure Global Inc. - Common Stock,0,13,-74,-38,-91
 TGTX,"TG Therapeutics, Inc. - Common Stock",-4,15,10,26,-11
 TH,Target Hospitality Corp. - Common Stock,-4,44,93,73,120
@@ -2264,7 +2262,7 @@ VHCP,Vine Hill Capital Investment Corp. II - Class A Ordinary Shares,0,0,-1,-1,-
 VIASP,"Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",0,3,6,3,19
 VIAV,Viavi Solutions Inc. - Common Stock,4,34,231,154,339
 VINP,Vinci Compass Investments Ltd. - Class A Common Shares,0,9,-1,-13,22
-VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",-4,-4,-67,-43,-18
+VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",-4,-3,-67,-43,-18
 VISN,"Vistance Networks, Inc.  - Common Stock",-1,4,19,4,388
 VITL,"Vital Farms, Inc. - Common Stock",2,-2,-65,-57,-62
 VIVO,VivoPower PLC - Ordinary Shares,17,30,-28,42,18
@@ -2303,6 +2301,7 @@ XBIT,XBiotech Inc. - Common Stock,0,10,-2,6,-13
 XBP,"XBP Global Holdings, Inc. - Common Stock",0,-30,-42,-59,-76
 XCBE,X3 Acquisition Corp. Ltd. - Class A Ordinary Shares,0,1,0,0,0
 XCH,XCHG Limited - ADS,-1,-10,-38,-8,-14
+XE,"X-Energy, Inc. - Class A Common Stock",,,,,
 XEL,Xcel Energy Inc. - Common Stock,2,2,0,7,19
 XELB,"Xcel Brands, Inc - Common Stock",-4,35,58,94,-16
 XELLL,"Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",0,2,1,2,2
@@ -2314,14 +2313,14 @@ XLO,"Xilio Therapeutics, Inc. - Common Stock",-2,-2,-27,-10,-27
 XNET,Xunlei Limited - American Depositary Shares,-6,13,-32,-12,64
 XOMA,XOMA Royalty Corporation - Common Stock,-4,24,9,35,57
 XOMAO,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,0,3,5,3,10
-XOMAP,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,-1,3,3,-2,8
+XOMAP,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,0,3,3,-2,8
 XOS,"Xos, Inc. - Common Stock",0,-17,-39,-13,-56
 XP,XP Inc. - Class A Common Stock,-4,6,12,21,24
 XPEL,"XPEL, Inc. - Common Stock",1,16,30,-7,71
 XPON,Expion360 Inc. - Common Stock,-3,17,-49,-14,-26
 XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,0,0,0,0,0
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",-4,-13,31,41,64
-XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,-3,-7,-49,2,-57
+XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,-2,-7,-49,2,-57
 XXII,"22nd Century Group, Inc - Common Stock",-17,-42,-92,-87,-99
 YAAS,Youxin Technology Ltd - Class A Ordinary shares,-2,-4,-63,-42,-100
 YB,Yuanbao Inc. - American Depositary Shares,0,0,-28,-13,9
@@ -2335,7 +2334,7 @@ YI,"111, Inc. - American Depositary Shares",1,6,50,147,-17
 YIBO,Planet Image International Limited - Class A Ordinary Shares,3,6,-18,5,-11
 YJ,Yunji Inc. - American Depository Shares,-2,0,-1,56,13
 YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",0,-23,-70,-43,-94
-YMT,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,0,-9,-89,-88,-93
+YMT,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,1,-8,-88,-88,-93
 YOOV,Concorde International Group Ltd - Class A Ordinary Shares,-3,-11,-42,1,-61
 YQ,17 Education & Technology Group Inc. - American Depositary Shares,10,13,-58,-24,52
 YSXT,"YSX Tech. Co., Ltd  - Class A Ordinary Shares",-1,10,-49,-2,-73
@@ -2359,7 +2358,7 @@ ZION,Zions Bancorporation N.A. - Common Stock,1,9,20,6,44
 ZIONP,Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock,0,-2,-11,-3,-12
 ZJK,"ZJK Industrial Co., Ltd. - Class A Ordinary Shares",-4,31,-5,15,-45
 ZJYL,JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares,6,12,-65,-52,-88
-ZJZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZJZZT,NASDAQ TEST STOCK,,,,,
 ZKIN,"ZK International Group Co., Ltd - Ordinary Share",1,-7,-27,5,47
 ZKP,Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares,0,0,0,0,0
 ZLAB,Zai Lab Limited - American Depositary Shares,-4,25,-17,26,-32
@@ -2372,7 +2371,7 @@ ZSPC,"zSpace, Inc. - Common stock",-52,-84,-98,-96,-100
 ZSTK,ZeroStack Corp. - Common Stock,-1,14,-37,8,-67
 ZTEK,Zentek Ltd. - common stock,-4,-14,-45,-28,-63
 ZTG,Zenta Group Company Limited - Class A Ordinary Shares,19,50,-30,11,-39
-ZVZZT,NASDAQ TEST STOCK,,0,0,0,0
-ZXZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZVZZT,NASDAQ TEST STOCK,,,,,
+ZXZZT,NASDAQ TEST STOCK,,,,,
 ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,0,9,-60,-19,-91
 ZYME,Zymeworks Inc. - Common Stock,-4,11,49,3,118

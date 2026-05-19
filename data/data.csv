@@ -152,6 +152,7 @@ ALVO,Alvotech - Ordinary Shares,-2,-10,-38,-35,-67
 ALXO,ALX Oncology Holdings Inc. - Common Stock,-1,14,36,74,366
 ALZN,"Alzamend Neuro, Inc. - Common Stock",0,-8,-56,-46,-71
 AMAL,Amalgamated Financial Corp. - Common Stock,2,-7,47,28,32
+AMAN,Amanat Acquisition Corp - Ordinary Shares,,,,,
 AMAT,"Applied Materials, Inc. - Common Stock",-5,6,76,54,152
 AMBA,"Ambarella, Inc. - Ordinary Shares",-3,33,-10,5,23
 AMCI,AMC Robotics Corporation - Common Stock,-9,-36,-34,-36,-61
@@ -162,7 +163,7 @@ AMIX,"Autonomix Medical, Inc. - Common Stock",-3,-21,-65,-41,-82
 AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",-3,-27,-10,13,133
 AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",2,-43,-73,-53,-82
 AMPG,"Amplitech Group, Inc. - Common Stock",25,85,23,13,71
-AMPGZ,"Amplitech Group, Inc. - Series B Right",,0,0,0,0
+AMPGZ,"Amplitech Group, Inc. - Series B Right",,,,,
 AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",2,-25,-32,-35,-31
 AMPL,"Amplitude, Inc. - Class A Common Stock",5,-10,-35,-42,-48
 AMSC,American Superconductor Corporation - Common Stock,-9,23,61,59,103
@@ -294,7 +295,7 @@ BCIC,BCP Investment Corporation - Closed End Fund,0,-4,-35,-32,-28
 BCML,BayCom Corp - Common Stock,1,5,11,6,16
 BCPC,Balchem Corporation - Common Stock,0,-10,5,4,-6
 BCTX,BriaCell Therapeutics Corp. - Common Shares,11,-17,-53,-53,-91
-BCTXL,BriaCell Therapeutics Corp. - Warrants,,0,0,0,0
+BCTXL,BriaCell Therapeutics Corp. - Warrants,,,,,
 BCTXZ,BriaCell Therapeutics Corp. - Warrant,0,0,-21,-21,-21
 BCYC,Bicycle Therapeutics plc - American Depositary Shares,-2,-18,-30,-35,-49
 BDCI,BTC Development Corp. - Class A Ordinary Shares,0,0,-1,0,-1
@@ -879,7 +880,7 @@ FLX,BingEx Limited - American Depositary Shares,1,-4,-24,-23,6
 FLXS,"Flexsteel Industries, Inc. - Common Stock",-1,15,49,34,66
 FLY,Firefly Aerospace Inc. - Common Stock,9,3,126,85,-27
 FLYE,"Fly-E Group, Inc. - Common Stock",-3,-20,-55,-79,-97
-FMAC,Future Money Acquisition Corporation - Ordinary Shares,,0,0,0,0
+FMAC,Future Money Acquisition Corporation - Ordinary Shares,,,,,
 FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",3,0,20,13,8
 FMBH,"First Mid Bancshares, Inc. - Common Stock",2,-2,19,11,18
 FMFC,Kandal M Venture Limited - Class A ordinary Shares,-3,-5,-38,27,-91
@@ -1470,7 +1471,7 @@ METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",0,1,0,0,6
 MEVO,M Evo Global Acquisition Corp II - Class A Ordinary Shares,0,0,0,0,0
 MFI,mF International Limited - Class A Ordinary Shares,-1,-13,-45,-46,56
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,-3,-9,-1,-4,-6
-MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,0,0,0,0
+MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,,,,
 MFIN,Medallion Financial Corp. - Common Stock,1,3,6,-3,10
 MGEE,MGE Energy Inc. - Common Stock,1,-4,-6,-4,-17
 MGIH,Millennium Group International Holdings Limited - Ordinary Shares,-2,-3,-7,8,-18
@@ -2346,7 +2347,7 @@ ZION,Zions Bancorporation N.A. - Common Stock,1,-4,21,3,28
 ZIONP,Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock,0,-1,-4,-4,-13
 ZJK,"ZJK Industrial Co., Ltd. - Class A Ordinary Shares",-4,22,54,24,-43
 ZJYL,JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares,1,14,-55,-47,-85
-ZJZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZJZZT,NASDAQ TEST STOCK,,,,,
 ZKIN,"ZK International Group Co., Ltd - Ordinary Share",6,1,-45,-7,-59
 ZKP,Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares,0,0,0,0,0
 ZLAB,Zai Lab Limited - American Depositary Shares,-8,-25,-8,9,-42
@@ -2358,7 +2359,7 @@ ZS,"Zscaler, Inc. - Common Stock",8,30,-40,-21,-31
 ZSTK,ZeroStack Corp. - Common Stock,-3,-45,-47,-41,-84
 ZTEK,Zentek Ltd. - common stock,7,48,-1,10,-54
 ZTG,Zenta Group Company Limited - Class A Ordinary Shares,-2,50,31,39,-23
-ZVZZT,NASDAQ TEST STOCK,,0,0,0,0
-ZXZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZVZZT,NASDAQ TEST STOCK,,,,,
+ZXZZT,NASDAQ TEST STOCK,,,,,
 ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,-3,-3,-57,-18,-88
 ZYME,Zymeworks Inc. - Common Stock,2,-12,8,-8,97

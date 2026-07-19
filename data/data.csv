@@ -200,7 +200,7 @@ APGE,"Apogee Therapeutics, Inc. - Common Stock",0,1,63,77,243
 API,"Agora, Inc. - ADS",-2,-6,-13,-3,-2
 APLD,Applied Digital Corporation - Common Stock,-2,-43,-27,-8,133
 APLM,Apollomics Inc. - Class A Ordinary Shares,-20,-19,-8,-4,162
-APM,Aptorum Group Limited - Common Stock,1,-18,-31,-35,-60
+APM,Aptorum Group Limited - Common Stock,1,718,588,556,301
 APMC,AmperCap Acquisition Company - Ordinary Shares,0,0,0,0,0
 APOG,"Apogee Enterprises, Inc. - Common Stock",0,0,13,12,2
 APP,Applovin Corporation - Class A Common Stock,-2,-10,-25,-31,16
@@ -339,7 +339,7 @@ BIOA,"BioAge Labs, Inc. - Common Stock",3,6,7,78,396
 BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,0,-8,-73,-74,-90
 BIVI,BioVie Inc. - Common stock,5,-7,48,35,-75
 BIXI,Bitcoin Infrastructure Acquisition Corp Ltd. - Class A Ordinary Shares,0,0,1,2,1
-BIYA,Baiya International Group Inc.  - Ordinary Shares,36,910,-28,-6,-81
+BIYA,Baiya International Group Inc.  - Ordinary Shares,36,1,-93,-91,-98
 BJDX,"Bluejay Diagnostics, Inc. - Common Stock",12,-62,-48,-45,-77
 BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,1,2,4,8,10
 BKNG,Booking Holdings Inc. - Common Stock,-2,8,-9,-14,-19
@@ -455,7 +455,7 @@ CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,-1,-1,17,25,35
 CCEC,Capital Clean Energy Carriers Corp. - Common Share,-1,12,5,10,-2
 CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,-1,8,18,21,11
 CCG,Cheche Group Inc. - Class A Ordinary Shares,-2,19,-47,-45,-43
-CCHH,CCH Holdings Ltd - Class A Ordinary Shares,-2,247,174,171,-65
+CCHH,CCH Holdings Ltd - Class A Ordinary Shares,-2,-65,-73,-73,-96
 CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,0,1,1,1,2
 CCIX,Churchill Capital Corp IX - Ordinary Shares,0,0,2,2,3
 CCLD,"CareCloud, Inc. - Common Stock",0,9,-20,-20,-2
@@ -471,7 +471,7 @@ CDLX,"Cardlytics, Inc. - Common Stock",1,-20,-64,-63,-79
 CDNA,"CareDx, Inc. - Common Stock",-2,59,97,108,212
 CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,0,-10,166,215,203
 CDNS,"Cadence Design Systems, Inc. - Common Stock",-9,-15,8,6,4
-CDT,CDT Equity Inc. - Common Stock,-12,-79,-99,-99,-100
+CDT,CDT Equity Inc. - Common Stock,-11,-79,-99,-99,-100
 CDTG,CDT Environmental Technology Investment Holdings Limited - ordinary shares,1,-10,-81,-78,-90
 CDXS,"Codexis, Inc. - Common Stock",4,-5,39,39,-21
 CDZI,"Cadiz, Inc. - Common Stock",-2,-15,-47,-41,15
@@ -528,7 +528,7 @@ CHSN,Chanson International Holding - Class A Ordinary Shares,-1,-2,-100,-100,-10
 CHY,Calamos Convertible and High Income Fund - Closed End Fund,-2,-2,19,21,30
 CHYM,"Chime Financial, Inc. - Class A Common Stock",2,32,-13,-15,-33
 CIGI,Colliers International Group Inc.  - Subordinate Voting Shares,0,14,-29,-30,-27
-CIIT,"Tianci International, Inc. - Common Stock",-9,-40,-88,-88,-96
+CIIT,"Tianci International, Inc. - Common Stock",-9,501,20,22,-61
 CINF,Cincinnati Financial Corporation - Common Stock,3,5,14,13,24
 CING,Cingulate Inc. - Common Stock,2,-8,-23,4,-20
 CISO,"CISO Global, Inc. - Common Stock",4,3,-44,-46,-75
@@ -600,7 +600,7 @@ CPB,The Campbell's Company - Common Stock,-3,10,-14,-16,-24
 CPBI,"Central Plains Bancshares, Inc. - Common Stock",1,8,16,19,35
 CPHC,Canterbury Park Holding Corporation - Common Stock,1,0,3,5,-12
 CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,-11,23,45,72,95
-CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",-6,242,-14,-11,-47
+CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",-6,-66,-91,-91,-95
 CPSH,CPS Technologies Corp. - Common Stock,-5,-30,-19,36,72
 CPSS,"Consumer Portfolio Services, Inc. - Common Stock",-2,-5,7,-1,3
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,-1,3,-7,-5,-10
@@ -660,7 +660,7 @@ DEFT,"Defi Technologies, Inc. - Common Stock",0,-23,-54,-52,-87
 DETX,"Liberty Defense Holdings, Ltd. - Common Shares",1,-20,-42,-42,-42
 DFDV,DeFi Development Corp. - Common Stock,-3,-4,-58,-47,-88
 DFLI,Dragonfly Energy Holdings Corp - Common Stock,-8,-21,-66,-62,-45
-DFNS,T3 Defense Inc. - Common Stock,-14,-80,-99,-99,-99
+DFNS,T3 Defense Inc. - Common Stock,-14,2448,73,26,-37
 DFSC,"DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",-4,-44,2,-3,-76
 DFTX,"Definium Therapeutics, Inc.  - Common Shares",0,21,164,225,345
 DGICA,"Donegal Group, Inc. - Class A Common Stock",0,7,0,-2,7
@@ -725,7 +725,7 @@ ECBK,"ECB Bancorp, Inc. - Common Stock",-2,0,16,16,24
 ECHO,EchoStar Corporation - Common stock,1,-14,-25,-18,225
 ECPG,Encore Capital Group Inc - Common Stock,-1,9,66,63,136
 ECX,ECARX Holdings Inc. - Class A Ordinary shares,-6,8,-47,-33,-13
-EDBL,Edible Garden AG Incorporated - Common Stock,1,1445,-49,-53,-88
+EDBL,Edible Garden AG Incorporated - Common Stock,1,-66,-99,-99,-100
 EDHL,Everbright Digital Holding Limited - Ordinary Shares,-8,-21,-14,-37,-67
 EDIT,"Editas Medicine, Inc. - Common Stock",3,6,48,45,-5
 EDSA,"Edesa Biotech, Inc. - Common Shares",-2,-3,352,340,174
@@ -910,7 +910,7 @@ FTAI,FTAI Aviation Ltd. - Common Stock,2,-24,-26,-1,84
 FTAIM,FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,0,1,6,6,13
 FTCI,"FTC Solar, Inc. - Common Stock",-10,-27,-66,-69,-22
 FTEK,"Fuel Tech, Inc. - Common Stock",-1,-23,-2,-11,-42
-FTFT,Future FinTech Group Inc. - Common Stock,-5,96,-42,-54,-88
+FTFT,Future FinTech Group Inc. - Common Stock,-5,-51,-86,-89,-97
 FTH,"Faeth Therapeutics, Inc.  - Common Stock",0,12,169,168,236
 FTHA,Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares,0,0,0,0,0
 FTHM,Fathom Holdings Inc. - Common Stock,-6,-16,-33,-6,-42
@@ -993,7 +993,7 @@ GMHS,Gamehaus Holdings Inc. - Class A Ordinary Shares,-2,-2,-9,-7,-40
 GMM,Global Mofy AI Limited  - Class A Ordinary Shares,-18,-16,-96,-96,-98
 GNLN,"Greenlane Holdings, Inc. - Class A Common Stock",3,-5,-79,-80,-92
 GNLX,Genelux Corporation - Common Stock,2,-2,5,-37,-18
-GNPX,"Genprex, Inc. - Common Stock",-4,1295,172,328,-41
+GNPX,"Genprex, Inc. - Common Stock",-4,-37,-88,-81,-97
 GNSS,Genasys Inc. - Common Stock,2,8,-24,-21,-9
 GNTA,Genenta Science S.p.A. - American Depositary Shares,8,-19,15,10,-59
 GNTX,Gentex Corporation - Common Stock,-2,-5,5,4,7
@@ -1381,7 +1381,7 @@ LLYVA,"Liberty Live Holdings, Inc. - Series A Liberty Live Group Common Stock",1
 LLYVK,"Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock",1,5,25,22,26
 LMAT,"LeMaitre Vascular, Inc. - Common Stock",-1,15,19,27,28
 LMB,"Limbach Holdings, Inc. - Common Stock",-5,-11,-10,-8,-41
-LMFA,"LM Funding America, Inc. - Common Stock",-1,1252,550,449,-44
+LMFA,"LM Funding America, Inc. - Common Stock",-1,-46,-74,-78,-98
 LNAI,Lunai Bioworks Inc. - Common Stock,-2,-32,-59,-64,-89
 LNKS,Linkers Industries Limited - Class A Ordinary Shares,-3,-41,-98,-98,-99
 LNT,Alliant Energy Corporation - Common Stock,-1,2,13,16,20
@@ -2072,7 +2072,7 @@ SNDK,Sandisk Corporation - Common Stock When-Issued,-4,-40,199,392,3156
 SNDL,SNDL Inc. - Common Shares,-1,-9,-19,-26,-19
 SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",0,18,13,7,134
 SNES,"SenesTech, Inc. - Common Stock",1,-17,-31,-36,-68
-SNEX,StoneX Group Inc. - Common Stock,-7,-26,46,59,63
+SNEX,StoneX Group Inc. - Common Stock,-7,-51,-3,6,9
 SNFCA,Security National Financial Corporation - Class A Common Stock,-1,9,18,19,18
 SNGX,"Soligenix, Inc. - Common Stock",0,-8,-74,-75,-74
 SNOA,"Sonoma Pharmaceuticals, Inc. - Common Stock",-1,4,-63,-67,-66
@@ -2216,7 +2216,7 @@ TNON,"Tenon Medical, Inc. - Common Stock",2,-68,-79,-79,-82
 TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,5,2,-27,-25,-72
 TNYA,"Tenaya Therapeutics, Inc. - Common Stock",-3,17,16,11,-5
 TOI,"The Oncology Institute, Inc. - Common Stock",2,7,56,46,57
-TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",0,-3,-10,-13,-26
+TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",1,194,168,163,123
 TONX,TON Strategy Company - Common Stock,-4,5,26,35,-65
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,12,102,175,178,130
 TOYO,"TOYO Co., Ltd - Ordinary Shares",0,-55,-23,-12,45
@@ -2271,7 +2271,7 @@ VINP,Vinci Compass Investments Ltd. - Class A Common Shares,-2,-1,-19,-23,5
 VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",1,-2,-39,-52,-73
 VISN,"Vistance Networks, Inc.  - Common Stock",0,-6,38,36,217
 VITL,"Vital Farms, Inc. - Common Stock",3,34,-51,-55,-63
-VIVK,"Vivakor, Inc. - Common Stock",-26,-49,-87,-89,-100
+VIVK,"Vivakor, Inc. - Common Stock",-47,-74,-93,-94,-100
 VIVO,VivoPower PLC - Class A Ordinary Shares,-2,-34,66,57,-40
 VIVS,"VivoSim Labs, Inc. - Common Stock",-5,-49,-72,-69,-71
 VKTX,"Viking Therapeutics, Inc. - Common Stock",2,15,11,5,16
@@ -2332,7 +2332,7 @@ YB,Yuanbao Inc. - American Depositary Shares,-1,-1,-30,-25,-43
 YDDL,One and One Green Technologies. INC - Class A Ordinary Shares,-1,-26,-65,-64,-64
 YDES,YD Bio Limited - Ordinary Shares,0,-12,-79,-80,-82
 YDKG,Yueda Digital Holding - Class A Ordinary Share,-3,4,-6,-11,-99
-YHC,LQR House Inc. - Common Stock,-1,99,81,89,6
+YHC,LQR House Inc. - Common Stock,-1,-98,-98,-98,-99
 YHGJ,Yunhong Green CTI Ltd. - Common Stock,-2,-6,-21,-17,-66
 YHNA,YHN Acquisition I Limited - Ordinary Shares,0,0,2,2,5
 YI,"111, Inc. - American Depositary Shares",-4,-2,-29,32,-52

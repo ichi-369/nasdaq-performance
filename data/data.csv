@@ -166,7 +166,7 @@ AMIX,"Autonomix Medical, Inc. - Common Stock",-10,-44,-54,-61,-88
 AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",4,9,7,55,116
 AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",-4,-2,-88,-79,-92
 AMPG,"Amplitech Group, Inc. - Common Stock",3,-21,89,102,127
-AMPGZ,"Amplitech Group, Inc. - Series B Right",,0,0,0,0
+AMPGZ,"Amplitech Group, Inc. - Series B Right",,,,,
 AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",-1,8,-24,-25,-7
 AMPL,"Amplitude, Inc. - Class A Common Stock",-1,49,-2,-12,-24
 AMSC,American Superconductor Corporation - Common Stock,0,-27,6,5,-22
@@ -200,7 +200,6 @@ APGE,"Apogee Therapeutics, Inc. - Common Stock",0,1,63,77,243
 API,"Agora, Inc. - ADS",-2,-6,-13,-3,-2
 APLD,Applied Digital Corporation - Common Stock,-2,-43,-27,-8,133
 APLM,Apollomics Inc. - Class A Ordinary Shares,-20,-19,-8,-4,162
-APM,Aptorum Group Limited - Common Stock,1,718,588,556,301
 APMC,AmperCap Acquisition Company - Ordinary Shares,0,0,0,0,0
 APOG,"Apogee Enterprises, Inc. - Common Stock",0,0,13,12,2
 APP,Applovin Corporation - Class A Common Stock,-2,-10,-25,-31,16
@@ -300,7 +299,7 @@ BCIC,BCP Investment Corporation - Closed End Fund,-1,5,-35,-33,-32
 BCML,BayCom Corp - Common Stock,-2,8,21,20,25
 BCPC,Balchem Corporation - Common Stock,-2,-1,0,6,7
 BCTX,BriaCell Therapeutics Corp. - Common Shares,-3,24,-15,-48,-53
-BCTXL,BriaCell Therapeutics Corp. - Warrants,,0,0,0,0
+BCTXL,BriaCell Therapeutics Corp. - Warrants,,,,,
 BCTXZ,BriaCell Therapeutics Corp. - Warrant,,0,0,0,0
 BCYC,Bicycle Therapeutics plc - American Depositary Shares,1,6,-37,-37,-49
 BDCI,BTC Development Corp. - Class A Ordinary Shares,0,0,0,1,-1
@@ -333,6 +332,7 @@ BHFAO,"Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,
 BHFAP,"Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A",0,-2,-6,0,6
 BHST,BioHarvest Sciences Inc. - Common Stock,-5,-11,-44,-48,-61
 BIAF,"bioAffinity Technologies, Inc. - Common Stock",-1,-13,-46,-42,-94
+BID,Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares,,,,,
 BIIB,Biogen Inc. - Common Stock,-1,3,25,16,68
 BILI,Bilibili Inc. - American Depositary Shares,-5,8,-40,-32,-28
 BIOA,"BioAge Labs, Inc. - Common Stock",3,6,7,78,396
@@ -408,6 +408,7 @@ BTTC,Black Titan Corp - Ordinary Shares,1,16,-62,-50,-96
 BVC,BitVentures Limited - Ordinary Share,-2,-5,5,674,1242
 BVFL,"BV Financial, Inc. - Common Stock",-1,5,17,18,35
 BVS,Bioventus Inc. - Class A Common Stock,-3,37,56,67,91
+BXBL,"BOXABL, Inc.  - Common stock",-10,-44,-18,-17,-16
 BYAH,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",8,-66,-94,-95,-99
 BYFC,Broadway Financial Corporation - Class A Common Stock,-1,0,17,26,16
 BYND,"Beyond Meat, Inc. - Common stock",-2,-15,-36,-33,-86
@@ -671,7 +672,7 @@ DGXX,Digi Power X Inc. - Common Subordinate Voting Shares,1,-43,17,35,3
 DH,Definitive Healthcare Corp. - Class A Common Stock,-8,1,-67,-68,-81
 DHC,Diversified Healthcare Trust  - Common Shares of Beneficial Interest,-1,2,56,85,169
 DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042,1,2,12,17,24
-DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,,0,0,0,0
+DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,,,,,
 DIBS,"1stdibs.com, Inc. - Common Stock",-1,10,-20,-22,71
 DIOD,Diodes Incorporated - Common Stock,-3,-29,54,69,57
 DJCO,Daily Journal Corp. (S.C.) - Common Stock,0,12,-6,18,49
@@ -859,7 +860,6 @@ FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulativ
 FGI,FGI Industries Ltd. - Ordinary Shares,-7,-5,-32,-24,7
 FGII,FG Imperii Acquisition Corp. - Class A Ordinary Shares,0,0,1,1,1
 FGL,Founder Group Limited - Class A Ordinary Shares,9,-40,-93,-94,-99
-FGMC,FG Merger II Corp. - Common stock,-10,-44,-18,-17,-16
 FGNX,FG Nexus Inc. - Common Stock,-4,14,-61,-62,-96
 FGNXP,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,1,1,12,22,46
 FHB,"First Hawaiian, Inc. - Common Stock",-1,3,13,16,20
@@ -1480,9 +1480,10 @@ METCB,"Ramaco Resources, Inc. - Class B Common Stock",-4,-14,-36,-34,-44
 METCI,"Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",0,2,4,5,10
 METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",0,0,0,-1,-1
 MEVO,M Evo Global Acquisition Corp II - Class A Ordinary Shares,0,0,1,1,1
+MF,MindForge Inc. - Class A Ordinary Shares,,,,,
 MFI,mF International Limited - Class A Ordinary Shares,0,-13,-45,-55,-67
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,-2,0,-9,-9,-16
-MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,0,0,0,0
+MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,,,,,
 MFIN,Medallion Financial Corp. - Common Stock,-3,6,6,1,11
 MFP,"Midera Food Processing, Inc. - Common Stock",-6,-62,-62,-62,-62
 MGEE,MGE Energy Inc. - Common Stock,-1,7,3,5,-4
@@ -1618,6 +1619,7 @@ NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeema
 NHTC,Natural Health Trends Corp. - Common Stock,1,14,-47,-34,-51
 NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,-1,19,-11,-11,-36
 NICM,Nicola Mining Inc. - American Depositary Shares,-4,-1,-13,-13,-13
+NIKI,"Niki BioSolutions, Inc. - Common Stock",,,,,
 NIPG,NIP Group Inc. - American Depositary Shares,-13,-41,-85,-86,-93
 NIVF,NewGenIvf Group Limited - Class A Ordinary Shares,-1,-35,-92,-95,-100
 NIXX,"Nixxy, Inc. - Common Stock",1,-19,29,12,-44
@@ -2351,7 +2353,7 @@ Z,"Zillow Group, Inc. - Class C Capital Stock",-1,12,-49,-49,-56
 ZAZZT,Tick Pilot Test Stock Class A Common Stock,,,,,
 ZBAO,Zhibao Technology Inc. - Class A Ordinary Shares,-11,-59,-76,-75,-77
 ZBIO,"Zenas BioPharma, Inc. - Common Stock",5,42,41,-14,107
-ZBZZT,Test Pilot Test Stock Class B Common Stock,,,0,0,0
+ZBZZT,Test Pilot Test Stock Class B Common Stock,,,,,
 ZCMD,Zhongchao Inc. - Class A Ordinary Shares,-8,-12,-100,-100,-100
 ZCZZT,Tick Pilot Test Stock Class C ,,,,,
 ZD,"Ziff Davis, Inc. - Common Stock",1,19,42,59,78
@@ -2363,7 +2365,7 @@ ZION,Zions Bancorporation N.A. - Common Stock,-1,8,24,24,32
 ZIONP,Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock,0,-1,-5,-6,-16
 ZJK,"ZJK Industrial Co., Ltd. - Class A Ordinary Shares",-3,-7,-13,-13,-50
 ZJYL,JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares,0,-22,-28,-58,-85
-ZJZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZJZZT,NASDAQ TEST STOCK,,,,,
 ZKIN,"ZK International Group Co., Ltd - Ordinary Share",1,4,-26,-10,-42
 ZKP,Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares,0,0,0,0,0
 ZLAB,Zai Lab Limited - American Depositary Shares,-3,9,7,17,-42
@@ -2375,7 +2377,7 @@ ZS,"Zscaler, Inc. - Common Stock",2,21,-27,-32,-48
 ZSTK,ZeroStack Corp. - Common Stock,-9,-58,-75,-75,-93
 ZTEK,Zentek Ltd. - common stock,-2,17,-43,-30,-47
 ZTG,Zenta Group Company Limited - Class A Ordinary Shares,0,65,8,45,-20
-ZVZZT,NASDAQ TEST STOCK,,0,0,0,0
-ZXZZT,NASDAQ TEST STOCK,,0,0,0,0
+ZVZZT,NASDAQ TEST STOCK,,,,,
+ZXZZT,NASDAQ TEST STOCK,,,,,
 ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,-8,-3,-37,-38,-88
 ZYME,Zymeworks Inc. - Common Stock,0,4,2,-9,69
